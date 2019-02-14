@@ -1,0 +1,20 @@
+{
+  "name": "Node-IBM",
+  "version": "1.0.0",
+  "description": "In depth Tutorial by J Steven Perry -\r * [Node.js Learning Path](https://developer.ibm.com/articles/learn-node-unit-1-overview-nodejs-learning-path/) - Written Tutorial\r * [IBM Developer YouTube Channel](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA) - YouTube videos accompanying the tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobsirl/Node-IBM.git"
+  },
+  "keywords": [],
+  "author": "Paul Tobin <tobster111@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobsirl/Node-IBM/issues"
+  },
+  "homepage": "https://github.com/tobsirl/Node-IBM#readme"
+}
